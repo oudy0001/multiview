@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.ionicframework.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>HelloCordova</name>
+    <name>MultiView</name>
     <description>
-        An Ionic Framework and Cordova project.
+        Simple multiview app that maintains 3 lists and is intended to eventually be put on android devices.
     </description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+    <author>
+      oudy0001
     </author>
     <content src="index.html" />
     <access origin="*" />
