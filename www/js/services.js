@@ -1,1 +1,1 @@
-angular.module('multiview', [])
+angular.module('multiview')

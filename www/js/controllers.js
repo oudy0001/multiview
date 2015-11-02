@@ -1,1 +1,4 @@
-angular.module('multiview', [])
+angular.module('multiview').controller('ionSideMenus', function(){
+    
+    
+});
